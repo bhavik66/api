@@ -765,10 +765,10 @@
         }
       },
       "Thanjavur": {
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Virudhunagar": {
@@ -821,10 +821,10 @@
         }
       },
       "Theni": {
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dindigul": {
@@ -902,6 +902,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 81,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 81
         }
       }
     }
@@ -1106,21 +1113,21 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 108,
+        "confirmed": 103,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 21
         }
       },
       "Mumbai": {
-        "confirmed": 386,
+        "confirmed": 406,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
         }
       },
       "Nagpur": {
-        "confirmed": 19,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1190,7 +1197,7 @@
         }
       },
       "Kolhapur": {
-        "confirmed": 3,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1218,14 +1225,14 @@
         }
       },
       "Nashik": {
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Unknown": {
-        "confirmed": 20,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2100,17 +2107,6 @@
     "districtData": {
       "Lohit": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

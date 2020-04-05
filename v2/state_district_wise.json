@@ -879,10 +879,10 @@
       },
       {
         "district": "Thanjavur",
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -943,10 +943,10 @@
       },
       {
         "district": "Theni",
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1035,6 +1035,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 81,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 81
         }
       }
     ]
@@ -1270,7 +1278,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 108,
+        "confirmed": 103,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 21
@@ -1278,7 +1286,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 386,
+        "confirmed": 406,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
@@ -1286,7 +1294,7 @@
       },
       {
         "district": "Nagpur",
-        "confirmed": 19,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1366,7 +1374,7 @@
       },
       {
         "district": "Kolhapur",
-        "confirmed": 3,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1398,7 +1406,7 @@
       },
       {
         "district": "Nashik",
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1406,7 +1414,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 20,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2414,19 +2422,6 @@
       {
         "district": "Lohit",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
