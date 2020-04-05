@@ -238,10 +238,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 251,
+        "confirmed": 244,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 24
+          "confirmed": 17
         }
       }
     ]
@@ -262,7 +262,7 @@
         "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 1
         }
       },
       {
@@ -382,7 +382,7 @@
         "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -2181,18 +2181,18 @@
       },
       {
         "district": "Khargone",
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 1
         }
       },
       {
         "district": "Barwani",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       }
     ]
@@ -2494,19 +2494,6 @@
       {
         "district": "Lohit",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
