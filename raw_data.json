@@ -35399,7 +35399,7 @@
 			"typeoftransmission": "Imported"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "70",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "E0",
 			"currentstatus": "Hospitalized",
@@ -35408,7 +35408,7 @@
 			"detecteddistrict": "Visakhapatnam",
 			"detectedstate": "Andhra Pradesh",
 			"estimatedonsetdate": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "Attended Delhi Religious Conference",
 			"patientnumber": "1610",
@@ -35416,7 +35416,7 @@
 			"source2": "https://twitter.com/ANI/status/1245043633407037441",
 			"source3": "",
 			"statecode": "AP",
-			"statepatientnumber": "",
+			"statepatientnumber": "AP-P41",
 			"statuschangedate": "31/03/2020",
 			"typeoftransmission": "TBD"
 		},
