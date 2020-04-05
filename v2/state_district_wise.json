@@ -1438,10 +1438,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 1,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 58
         }
       },
       {
@@ -2422,6 +2422,19 @@
       {
         "district": "Lohit",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Unknown",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
