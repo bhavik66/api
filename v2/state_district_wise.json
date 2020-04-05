@@ -238,10 +238,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 227,
+        "confirmed": 257,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 30
         }
       }
     ]
@@ -653,10 +653,10 @@
       },
       {
         "district": "Bareilly",
-        "confirmed": 8,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -769,6 +769,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Rae Bareli",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       },
       {
@@ -2454,19 +2462,6 @@
       {
         "district": "Lohit",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
