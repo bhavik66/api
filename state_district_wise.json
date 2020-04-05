@@ -98,6 +98,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 8
+        }
       }
     }
   },
@@ -1106,14 +1113,14 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 103,
+        "confirmed": 102,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 21
         }
       },
       "Mumbai": {
-        "confirmed": 386,
+        "confirmed": 392,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
@@ -1127,7 +1134,7 @@
         }
       },
       "Thane": {
-        "confirmed": 49,
+        "confirmed": 50,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1161,20 +1168,6 @@
           "confirmed": 0
         }
       },
-      "Mumbai Suburban": {
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 49,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       "Sangli": {
         "confirmed": 25,
         "lastupdatedtime": "",
@@ -1184,6 +1177,13 @@
       },
       "Satara": {
         "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1264,7 +1264,7 @@
   "Punjab": {
     "districtData": {
       "Amritsar": {
-        "confirmed": 9,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1299,13 +1299,13 @@
         }
       },
       "Ludhiana": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
         }
       },
-      "Unknown": {
+      "Patiala": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2103,7 +2103,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 30,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
