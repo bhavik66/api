@@ -5,7 +5,7 @@
 			"id": "1"
 		},
 		{
-			"banner": "State Electricity Boards have asked citizens not to switch off or switch on lights and appliances all at the same time as it could cause a blackout.",
+			"banner": "State Electricity Boards have asked citizens not to switch off or switch on 💡 lights and appliances 🔌 all at the same time as it could cause a blackout.",
 			"id": "2"
 		},
 		{
@@ -17,11 +17,11 @@
 			"id": "4"
 		},
 		{
-			"banner": "Please stay indoors and ❌ DO NOT gather in groups. The virus is still out there!",
+			"banner": "Please stay indoors and ❌ DO NOT gather in groups. The virus is still out there!🦠",
 			"id": "5"
 		},
 		{
-			"banner": "If you do not have a 🕯️, it's okay - no need go out to buy it. Use your mobile flash. 🤳",
+			"banner": "If you do not have a 🕯️, it's okay. No need go out to buy it. Use your mobile flash. 🤳",
 			"id": "6"
 		},
 		{
@@ -29,12 +29,20 @@
 			"id": "7"
 		},
 		{
-			"banner": "DO NOT fall prey to unverified Whatsapp forwards. Please verify whatever you see with trusted sources.",
+			"banner": "❌ DO NOT fall prey to unverified Whatsapp forwards. Please verify whatever you see with trusted sources.",
 			"id": "8"
 		},
 		{
-			"banner": "Tonight is only to show that we are all together. It is NOT meant to be an excuse for social gatherings. Stay home, stay safe.",
+			"banner": "Tonight is only to show that we are all together. It is ❌ NOT meant to be an excuse for social gatherings. Stay home, stay safe.",
 			"id": "9"
+		},
+		{
+			"banner": " ✔️ DO go out into your balconies/windows with your family at 9PM and reiterate that we shall overcome this,together.😀",
+			"id": "10"
+		},
+		{
+			"banner": "✔️",
+			"id": "11"
 		}
 	],
 	"faq": [

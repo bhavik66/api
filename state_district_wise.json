@@ -923,10 +923,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 41,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 14
         }
       },
       "Rajouri": {
@@ -1106,7 +1106,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 388,
+        "confirmed": 387,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
@@ -1120,7 +1120,7 @@
         }
       },
       "Thane": {
-        "confirmed": 48,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2089,7 +2089,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 27,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
