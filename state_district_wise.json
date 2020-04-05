@@ -2127,5 +2127,16 @@
         }
       }
     }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    }
   }
 }
