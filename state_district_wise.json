@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 244,
+        "confirmed": 288,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 17
+          "confirmed": 61
         }
       }
     }
@@ -1805,13 +1805,6 @@
         "delta": {
           "confirmed": 1
         }
-      },
-      "Bhuj": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
       }
     }
   },
@@ -2173,6 +2166,17 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Bhuj": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
