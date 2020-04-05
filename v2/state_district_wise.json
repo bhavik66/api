@@ -251,18 +251,18 @@
     "districtData": [
       {
         "district": "Jaipur",
-        "confirmed": 56,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 37
         }
       },
       {
         "district": "Jhunjhunu",
-        "confirmed": 18,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       {
@@ -347,10 +347,10 @@
       },
       {
         "district": "Tonk",
-        "confirmed": 17,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -407,6 +407,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Nagaur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -1624,10 +1632,10 @@
       },
       {
         "district": "Kurnool",
-        "confirmed": 27,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 23
+          "confirmed": 49
         }
       },
       {
@@ -2422,19 +2430,6 @@
       {
         "district": "Lohit",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
