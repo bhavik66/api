@@ -540,10 +540,10 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "confirmed": 47,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ghaziabad": {
@@ -554,17 +554,17 @@
         }
       },
       "Lucknow": {
-        "confirmed": 17,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Gautam Buddha Nagar": {
-        "confirmed": 58,
+        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Moradabad": {
@@ -582,10 +582,10 @@
         }
       },
       "Kanpur Nagar": {
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Pilibhit": {
@@ -617,10 +617,10 @@
         }
       },
       "Shamli": {
-        "confirmed": 9,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Meerut": {
@@ -754,6 +754,34 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Kaushambi": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Bijnor": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Prayagraj": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Sitapur": {
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 8
         }
       }
     }
@@ -2240,10 +2268,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 622,
+        "confirmed": 595,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
