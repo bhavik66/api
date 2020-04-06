@@ -339,7 +339,7 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -395,7 +395,7 @@
       },
       {
         "district": "Evacuees",
-        "confirmed": 36,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -669,7 +669,7 @@
       },
       {
         "district": "Kheri",
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -718,14 +718,6 @@
       {
         "district": "Baghpat",
         "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Lakhimpur",
-        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -844,7 +836,7 @@
         }
       },
       {
-        "district": "Maharajganj",
+        "district": "Mahrajganj",
         "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
