@@ -576,18 +576,18 @@
       },
       {
         "district": "Nuh",
-        "confirmed": 3,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
         "district": "Karnal",
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -608,10 +608,18 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 17,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Charki Dadri",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
