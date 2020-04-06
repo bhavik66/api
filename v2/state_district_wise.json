@@ -395,10 +395,10 @@
       },
       {
         "district": "Evacuees",
-        "confirmed": 35,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       {
@@ -411,10 +411,10 @@
       },
       {
         "district": "Tonk",
-        "confirmed": 18,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -443,10 +443,10 @@
       },
       {
         "district": "Bikaner",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -491,10 +491,10 @@
       },
       {
         "district": "Kota",
-        "confirmed": 1,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 10
         }
       }
     ]
@@ -2673,7 +2673,7 @@
     "state": "Dadra and Nagar Haveli",
     "districtData": [
       {
-        "district": "Dadra and Nagar Haveli",
+        "district": "Unknown",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2700,7 +2700,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 254,
+        "confirmed": 241,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
