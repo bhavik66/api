@@ -95963,6 +95963,28 @@
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
 			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "06/04/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "Dadra and Nagar Haveli",
+			"estimatedonsetdate": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "4363",
+			"source1": "https://twitter.com/CollectorDnh/status/1246841816940331009",
+			"source2": "",
+			"source3": "",
+			"statecode": "DN",
+			"statepatientnumber": "",
+			"statuschangedate": "",
+			"typeoftransmission": ""
 		}
 	]
 }
