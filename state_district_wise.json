@@ -466,10 +466,10 @@
         }
       },
       "Palwal": {
-        "confirmed": 23,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Ambala": {
@@ -523,6 +523,13 @@
       },
       "Kaithal": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2303,7 +2310,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 330,
+        "confirmed": 321,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
