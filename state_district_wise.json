@@ -1204,14 +1204,14 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 122,
+        "confirmed": 119,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 19
         }
       },
       "Mumbai": {
-        "confirmed": 417,
+        "confirmed": 469,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 11
@@ -1225,14 +1225,14 @@
         }
       },
       "Thane": {
-        "confirmed": 77,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ahmadnagar": {
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -1246,7 +1246,7 @@
         }
       },
       "Aurangabad": {
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1295,7 +1295,7 @@
         }
       },
       "Gujarat*": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1323,7 +1323,7 @@
         }
       },
       "Osmanabad": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1338,13 +1338,6 @@
       },
       "Hingoli": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1538,6 +1531,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 14,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 14
         }
       }
     }
