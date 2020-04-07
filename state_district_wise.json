@@ -1281,10 +1281,10 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 163,
+        "confirmed": 159,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 22
+          "confirmed": 18
         }
       },
       "Mumbai": {
@@ -1302,10 +1302,10 @@
         }
       },
       "Thane": {
-        "confirmed": 88,
+        "confirmed": 87,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 2
         }
       },
       "Ahmadnagar": {
@@ -1386,10 +1386,10 @@
         }
       },
       "Buldana": {
-        "confirmed": 9,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 2
         }
       },
       "Nashik": {
@@ -1442,10 +1442,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 39,
+        "confirmed": 46,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 39
+          "confirmed": 46
         }
       },
       "Saharsa": {
