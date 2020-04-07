@@ -1281,10 +1281,10 @@
         }
       },
       "Ahmadnagar": {
-        "confirmed": 23,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Yavatmal": {
@@ -1309,10 +1309,10 @@
         }
       },
       "Sangli": {
-        "confirmed": 25,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Satara": {
@@ -1404,6 +1404,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 19,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 19
         }
       }
     }
@@ -1555,10 +1562,10 @@
         }
       },
       "Guntur": {
-        "confirmed": 32,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kurnool": {
@@ -2363,7 +2370,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 192,
+        "confirmed": 168,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
