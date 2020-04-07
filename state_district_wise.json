@@ -1884,10 +1884,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Porbandar": {
@@ -1912,10 +1912,10 @@
         }
       },
       "Patan": {
-        "confirmed": 7,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 3
         }
       },
       "Chota Udaipur": {
@@ -1937,6 +1937,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Anand": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       },
       "Sabar Kantha": {

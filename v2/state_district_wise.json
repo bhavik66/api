@@ -2163,10 +2163,10 @@
       },
       {
         "district": "Bhavnagar",
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2195,10 +2195,10 @@
       },
       {
         "district": "Patan",
-        "confirmed": 7,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 3
         }
       },
       {
@@ -2223,6 +2223,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Anand",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       },
       {
