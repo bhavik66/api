@@ -1288,17 +1288,17 @@
         }
       },
       "Mumbai": {
-        "confirmed": 590,
+        "confirmed": 642,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 64
+          "confirmed": 116
         }
       },
       "Nagpur": {
-        "confirmed": 22,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 3
         }
       },
       "Thane": {
@@ -1309,10 +1309,10 @@
         }
       },
       "Ahmadnagar": {
-        "confirmed": 29,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 3
         }
       },
       "Yavatmal": {
@@ -1337,10 +1337,10 @@
         }
       },
       "Sangli": {
-        "confirmed": 27,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 1
         }
       },
       "Satara": {
@@ -1439,13 +1439,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 46,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 46
         }
       },
       "Saharsa": {
