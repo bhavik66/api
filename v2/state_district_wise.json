@@ -520,10 +520,10 @@
       },
       {
         "district": "Faridabad",
-        "confirmed": 14,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -592,10 +592,10 @@
       },
       {
         "district": "Nuh",
-        "confirmed": 14,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       {
@@ -628,14 +628,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       }
     ]
@@ -2748,10 +2740,10 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 131,
+        "confirmed": 110,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 21
+          "confirmed": 0
         }
       }
     ]
