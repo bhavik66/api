@@ -1453,10 +1453,10 @@
   "Punjab": {
     "districtData": {
       "Amritsar": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Shahid Bhagat Singh Nagar": {
@@ -1467,10 +1467,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 19,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Hoshiarpur": {
@@ -1509,17 +1509,17 @@
         }
       },
       "Mansa": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Pathankot": {
-        "confirmed": 1,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Faridkot": {
@@ -1551,17 +1551,17 @@
         }
       },
       "Moga": {
-        "confirmed": 4,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 1
         }
       },
       "Unknown": {
-        "confirmed": 15,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 15
+          "confirmed": 2
         }
       }
     }
@@ -1569,10 +1569,10 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 42,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Prakasam": {
@@ -1611,10 +1611,10 @@
         }
       },
       "Guntur": {
-        "confirmed": 33,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 9
         }
       },
       "Kurnool": {
@@ -1639,10 +1639,10 @@
         }
       },
       "Y.S.R.": {
-        "confirmed": 27,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -2419,7 +2419,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 162,
+        "confirmed": 152,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
