@@ -1253,31 +1253,31 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 141,
+        "confirmed": 145,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Mumbai": {
-        "confirmed": 526,
+        "confirmed": 536,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       "Nagpur": {
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Thane": {
-        "confirmed": 85,
+        "confirmed": 86,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ahmadnagar": {
@@ -1358,10 +1358,10 @@
         }
       },
       "Buldana": {
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Nashik": {
@@ -1404,13 +1404,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 19,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 19
         }
       }
     }
@@ -1891,10 +1884,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 14,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       "Porbandar": {
@@ -1919,10 +1912,10 @@
         }
       },
       "Patan": {
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 5
         }
       },
       "Chota Udaipur": {
@@ -1944,13 +1937,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Anand": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
         }
       },
       "Sabar Kantha": {
@@ -1997,10 +1983,10 @@
         }
       },
       "Bhopal": {
-        "confirmed": 61,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       "Indore": {
@@ -2370,7 +2356,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 168,
+        "confirmed": 156,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
