@@ -1353,18 +1353,18 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 58,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Kalaburagi",
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1377,10 +1377,10 @@
       },
       {
         "district": "Chikkaballapura",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1401,10 +1401,10 @@
       },
       {
         "district": "Uttara Kannada",
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1497,10 +1497,10 @@
       },
       {
         "district": "Mandya",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
@@ -1832,10 +1832,10 @@
     "districtData": [
       {
         "district": "S.P.S. Nellore",
-        "confirmed": 43,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -1864,18 +1864,18 @@
       },
       {
         "district": "Krishna",
-        "confirmed": 29,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
         "district": "Chittoor",
-        "confirmed": 17,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -2132,10 +2132,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 64,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       }
     ]
@@ -2828,10 +2828,10 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 39,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     ]
