@@ -1989,10 +1989,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     ]
@@ -2501,10 +2501,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 10,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 51
         }
       }
     ]
@@ -2852,7 +2852,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 248,
+        "confirmed": 205,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
