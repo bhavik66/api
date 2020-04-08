@@ -1518,18 +1518,18 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 159,
+        "confirmed": 183,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 24
         }
       },
       {
         "district": "Mumbai",
-        "confirmed": 642,
+        "confirmed": 702,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 60
         }
       },
       {
@@ -1542,10 +1542,10 @@
       },
       {
         "district": "Thane",
-        "confirmed": 87,
+        "confirmed": 88,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1638,10 +1638,10 @@
       },
       {
         "district": "Buldana",
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1702,10 +1702,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 60,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 60
+          "confirmed": 31
         }
       }
     ]
@@ -1848,10 +1848,10 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 24,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1888,10 +1888,10 @@
       },
       {
         "district": "Guntur",
-        "confirmed": 41,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -1904,18 +1904,18 @@
       },
       {
         "district": "Anantapur",
-        "confirmed": 6,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
         "district": "West Godavari",
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2836,7 +2836,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 341,
+        "confirmed": 265,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
