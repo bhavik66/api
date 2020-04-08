@@ -1502,10 +1502,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 26,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Hoshiarpur": {
@@ -1590,13 +1590,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 4
         }
       }
     }
