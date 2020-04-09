@@ -2243,7 +2243,7 @@
       },
       {
         "district": "Surat",
-        "confirmed": 23,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2331,7 +2331,7 @@
       },
       {
         "district": "Chota Udaipur",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2355,7 +2355,7 @@
       },
       {
         "district": "Anand",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2364,6 +2364,14 @@
       {
         "district": "Sabar Kantha",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2570,10 +2578,10 @@
       },
       {
         "district": "Siwan",
-        "confirmed": 15,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 9
         }
       },
       {
@@ -2635,14 +2643,6 @@
       {
         "district": "Nawada",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2908,7 +2908,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 23,
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
