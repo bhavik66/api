@@ -2239,7 +2239,7 @@
         }
       },
       "Siwan": {
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
@@ -2296,6 +2296,13 @@
       },
       "Nawada": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2524,7 +2531,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 28,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
