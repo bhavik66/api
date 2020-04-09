@@ -2242,10 +2242,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 51,
+        "confirmed": 151,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 100
         }
       },
       "Khandwa": {
@@ -2566,7 +2566,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 216,
+        "confirmed": 116,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
