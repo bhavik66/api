@@ -2462,10 +2462,10 @@
         }
       },
       "Bokaro": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -2594,10 +2594,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 72,
+        "confirmed": 71,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     }
