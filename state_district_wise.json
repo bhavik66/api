@@ -2228,7 +2228,7 @@
         }
       },
       "Shivpuri": {
-        "confirmed": 2,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2291,7 +2291,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 72,
+        "confirmed": 68,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
