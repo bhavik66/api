@@ -1143,10 +1143,10 @@
       },
       {
         "district": "Chengalpattu",
-        "confirmed": 24,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       {
@@ -1343,10 +1343,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 77,
+        "confirmed": 65,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 77
+          "confirmed": 65
         }
       }
     ]
