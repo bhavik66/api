@@ -2010,10 +2010,10 @@
   "Gujarat": {
     "districtData": {
       "Rajkot": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Surat": {
@@ -2031,10 +2031,10 @@
         }
       },
       "Vadodara": {
-        "confirmed": 22,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Gandhinagar": {
@@ -2045,10 +2045,10 @@
         }
       },
       "Kachchh": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Mahesana": {
@@ -2059,10 +2059,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 20,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         }
       },
       "Porbandar": {
@@ -2087,10 +2087,10 @@
         }
       },
       "Patan": {
-        "confirmed": 12,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Chota Udaipur": {
@@ -2140,20 +2140,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
-        }
-      },
-      "Kutch": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
-        }
-      },
-      "Unknown": {
-        "confirmed": 26,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 26
         }
       }
     }

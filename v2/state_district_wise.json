@@ -2307,10 +2307,10 @@
     "districtData": [
       {
         "district": "Rajkot",
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2331,10 +2331,10 @@
       },
       {
         "district": "Vadodara",
-        "confirmed": 22,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       {
@@ -2347,10 +2347,10 @@
       },
       {
         "district": "Kachchh",
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2363,10 +2363,10 @@
       },
       {
         "district": "Bhavnagar",
-        "confirmed": 20,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         }
       },
       {
@@ -2395,10 +2395,10 @@
       },
       {
         "district": "Patan",
-        "confirmed": 12,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -2455,22 +2455,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
-        }
-      },
-      {
-        "district": "Kutch",
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 26,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 26
         }
       }
     ]
