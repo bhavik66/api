@@ -427,10 +427,10 @@
         }
       },
       "Banswara": {
-        "confirmed": 12,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       "Karauli": {
@@ -448,10 +448,10 @@
         }
       },
       "Jaisalmer": {
-        "confirmed": 19,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Kota": {
@@ -480,6 +480,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 6
         }
       }
     }
@@ -2309,10 +2316,10 @@
         }
       },
       "Siwan": {
-        "confirmed": 27,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Nalanda": {
@@ -2594,7 +2601,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 71,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

@@ -491,10 +491,10 @@
       },
       {
         "district": "Banswara",
-        "confirmed": 12,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       {
@@ -515,10 +515,10 @@
       },
       {
         "district": "Jaisalmer",
-        "confirmed": 19,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -551,6 +551,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 6
         }
       }
     ]
@@ -2650,10 +2658,10 @@
       },
       {
         "district": "Siwan",
-        "confirmed": 27,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2980,7 +2988,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 71,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
