@@ -901,10 +901,10 @@
   "Ladakh": {
     "districtData": {
       "Leh": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kargil": {
@@ -912,13 +912,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
         }
       }
     }
@@ -2611,7 +2604,7 @@
         "confirmed": 63,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
