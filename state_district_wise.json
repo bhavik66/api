@@ -1674,7 +1674,7 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 49,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1723,7 +1723,7 @@
         }
       },
       "Kurnool": {
-        "confirmed": 74,
+        "confirmed": 75,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2024,10 +2024,10 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 142,
+        "confirmed": 153,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Vadodara": {
@@ -2038,10 +2038,10 @@
         }
       },
       "Gandhinagar": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kachchh": {
@@ -2059,10 +2059,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 18,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Porbandar": {
@@ -2133,6 +2133,27 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Bharuch": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
+        }
+      },
+      "Kutch": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Unknown": {
+        "confirmed": 26,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 26
         }
       }
     }
@@ -2594,7 +2615,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 41,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
