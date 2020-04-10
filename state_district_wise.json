@@ -1903,10 +1903,10 @@
         }
       },
       "Puducherry": {
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     }
@@ -2636,7 +2636,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 91,
+        "confirmed": 89,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
