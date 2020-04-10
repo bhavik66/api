@@ -2186,10 +2186,10 @@
         }
       },
       "Bhopal": {
-        "confirmed": 95,
+        "confirmed": 94,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       "Indore": {
@@ -2601,7 +2601,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 62,
+        "confirmed": 63,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
