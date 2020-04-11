@@ -1400,7 +1400,7 @@
         }
       },
       "Thane": {
-        "confirmed": 117,
+        "confirmed": 119,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1560,18 +1560,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 189,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 187
-        }
-      },
       "Nagaur": {
         "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 187,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 187
         }
       }
     }
