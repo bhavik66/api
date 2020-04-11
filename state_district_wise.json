@@ -1148,6 +1148,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 58,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 58
+        }
       }
     }
   },
@@ -1709,10 +1716,10 @@
         }
       },
       "Prakasam": {
-        "confirmed": 40,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Visakhapatnam": {
@@ -1744,17 +1751,17 @@
         }
       },
       "Guntur": {
-        "confirmed": 58,
+        "confirmed": 75,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Kurnool": {
-        "confirmed": 77,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Anantapur": {
@@ -1772,10 +1779,10 @@
         }
       },
       "Y.S.R.": {
-        "confirmed": 29,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -2671,7 +2678,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 154,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
