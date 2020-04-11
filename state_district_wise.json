@@ -1372,7 +1372,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 1005,
+        "confirmed": 1004,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1400,7 +1400,7 @@
         }
       },
       "Raigarh": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
