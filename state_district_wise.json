@@ -1372,17 +1372,17 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 248,
+        "confirmed": 249,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Mumbai": {
-        "confirmed": 1008,
+        "confirmed": 1146,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 138
         }
       },
       "Nagpur": {
@@ -1561,10 +1561,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 187,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 187
+          "confirmed": 48
         }
       }
     }
@@ -1885,10 +1885,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       }
     }
@@ -2678,10 +2678,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 166,
+        "confirmed": 162,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     }
