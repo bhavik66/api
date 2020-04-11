@@ -494,10 +494,10 @@
         }
       },
       "Faridabad": {
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Panipat": {
@@ -522,10 +522,10 @@
         }
       },
       "Palwal": {
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ambala": {
@@ -2678,7 +2678,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 72,
+        "confirmed": 70,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
