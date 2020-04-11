@@ -888,6 +888,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 19,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 19
+        }
       }
     }
   },
@@ -1228,10 +1235,10 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 67,
+        "confirmed": 68,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Kalaburagi": {
@@ -1355,13 +1362,6 @@
       },
       "Mandya": {
         "confirmed": 5,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2678,7 +2678,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 59,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

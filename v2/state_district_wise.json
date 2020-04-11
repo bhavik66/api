@@ -1018,6 +1018,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 19,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 19
+        }
       }
     ]
   },
@@ -1409,10 +1417,10 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 67,
+        "confirmed": 68,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       {
@@ -1554,14 +1562,6 @@
       {
         "district": "Mandya",
         "confirmed": 5,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -3076,7 +3076,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 59,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
