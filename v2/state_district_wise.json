@@ -1545,10 +1545,10 @@
       },
       {
         "district": "Kalaburagi",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       {
@@ -1681,14 +1681,6 @@
       },
       {
         "district": "Vijayapura",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      {
-        "district": "Unknown",
         "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
