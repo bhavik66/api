@@ -427,10 +427,10 @@
         }
       },
       "Banswara": {
-        "confirmed": 37,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       "Karauli": {
@@ -473,6 +473,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 81,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 36
         }
       }
     }
@@ -2700,6 +2707,13 @@
     "districtData": {
       "Kannur": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 147,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

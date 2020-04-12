@@ -491,10 +491,10 @@
       },
       {
         "district": "Banswara",
-        "confirmed": 37,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       {
@@ -543,6 +543,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 81,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 36
         }
       }
     ]
@@ -3101,6 +3109,14 @@
       {
         "district": "Kannur",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 147,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
