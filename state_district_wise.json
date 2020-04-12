@@ -1287,7 +1287,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 68,
+        "confirmed": 62,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1308,7 +1308,7 @@
         }
       },
       "Baramula": {
-        "confirmed": 5,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
