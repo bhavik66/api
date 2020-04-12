@@ -2494,7 +2494,7 @@
       },
       {
         "district": "Korba",
-        "confirmed": 10,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -3276,7 +3276,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 72,
+        "confirmed": 66,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
