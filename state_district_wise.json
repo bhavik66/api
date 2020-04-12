@@ -1294,7 +1294,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 112,
+        "confirmed": 68,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1308,7 +1308,7 @@
         }
       },
       "Badgam": {
-        "confirmed": 2,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1322,7 +1322,7 @@
         }
       },
       "Shupiyan": {
-        "confirmed": 2,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1340,6 +1340,34 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 17
+        }
+      },
+      "Pulwama": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Kupwara": {
+        "confirmed": 15,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Ganderbal": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Kulgam": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       },
       "Kishtwar": {

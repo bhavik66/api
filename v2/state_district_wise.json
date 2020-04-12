@@ -1484,7 +1484,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 112,
+        "confirmed": 68,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1500,7 +1500,7 @@
       },
       {
         "district": "Badgam",
-        "confirmed": 2,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1516,7 +1516,7 @@
       },
       {
         "district": "Shupiyan",
-        "confirmed": 2,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1536,6 +1536,38 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 17
+        }
+      },
+      {
+        "district": "Pulwama",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Kupwara",
+        "confirmed": 15,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Ganderbal",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Kulgam",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       },
       {
