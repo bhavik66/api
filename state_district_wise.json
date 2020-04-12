@@ -1266,28 +1266,21 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Jammu": {
-        "confirmed": 26,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
         }
       },
       "Srinagar": {
-        "confirmed": 17,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Bandipore": {
-        "confirmed": 10,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
         }
       },
-      "Unknown": {
-        "confirmed": 62,
+      "Bandipore": {
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1308,14 +1301,21 @@
         }
       },
       "Baramula": {
-        "confirmed": 11,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
         }
       },
       "Shupiyan": {
-        "confirmed": 14,
+        "confirmed": 15,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1329,7 +1329,7 @@
         }
       },
       "Kashmir": {
-        "confirmed": 32,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1375,6 +1375,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Budaun": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     }
@@ -1849,10 +1856,10 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 48,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Prakasam": {
@@ -1884,24 +1891,24 @@
         }
       },
       "Chittoor": {
-        "confirmed": 20,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Guntur": {
-        "confirmed": 75,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Kurnool": {
         "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
+        }
+      },
+      "Kurnool": {
+        "confirmed": 84,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       },
       "Anantapur": {
@@ -1919,10 +1926,10 @@
         }
       },
       "Y.S.R.": {
-        "confirmed": 30,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -2853,7 +2860,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 85,
+        "confirmed": 70,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
