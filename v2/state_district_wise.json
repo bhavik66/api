@@ -1146,6 +1146,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 28,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 28
+        }
       }
     ]
   },
@@ -1508,18 +1516,18 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Udhampur",
-        "confirmed": 19,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -3284,7 +3292,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 70,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

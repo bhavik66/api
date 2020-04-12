@@ -1000,6 +1000,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 28,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 28
+        }
       }
     }
   },
@@ -1315,17 +1322,17 @@
         }
       },
       "Unknown": {
-        "confirmed": 6,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Udhampur": {
-        "confirmed": 19,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Udhampur": {
+        "confirmed": 18,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       },
       "Kashmir": {
@@ -2860,7 +2867,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 70,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
