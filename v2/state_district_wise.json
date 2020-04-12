@@ -198,7 +198,7 @@
     "districtData": [
       {
         "district": "Hyderabad",
-        "confirmed": 104,
+        "confirmed": 166,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -238,7 +238,31 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 155,
+        "confirmed": 63,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Rajanna Sircilla",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Khammam",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Warangal Urban",
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -246,7 +270,7 @@
       },
       {
         "district": "Vikarabad",
-        "confirmed": 3,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -303,14 +327,6 @@
       {
         "district": "Mahabubabad",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Warangal Urban",
-        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

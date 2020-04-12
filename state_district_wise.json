@@ -171,7 +171,7 @@
   "Telangana": {
     "districtData": {
       "Hyderabad": {
-        "confirmed": 104,
+        "confirmed": 166,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -206,14 +206,35 @@
         }
       },
       "Unknown": {
-        "confirmed": 155,
+        "confirmed": 63,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Rajanna Sircilla": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Khammam": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Warangal Urban": {
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Vikarabad": {
-        "confirmed": 3,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -263,13 +284,6 @@
       },
       "Mahabubabad": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Warangal Urban": {
-        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
