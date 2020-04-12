@@ -2221,14 +2221,14 @@
         }
       },
       "Bhopal": {
-        "confirmed": 116,
+        "confirmed": 131,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Indore": {
-        "confirmed": 235,
+        "confirmed": 281,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2369,13 +2369,6 @@
       },
       "Mandsaur": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

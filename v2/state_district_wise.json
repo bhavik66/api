@@ -2549,7 +2549,7 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 116,
+        "confirmed": 131,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2557,7 +2557,7 @@
       },
       {
         "district": "Indore",
-        "confirmed": 235,
+        "confirmed": 281,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2718,14 +2718,6 @@
       {
         "district": "Mandsaur",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
