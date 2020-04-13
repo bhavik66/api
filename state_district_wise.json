@@ -2466,10 +2466,10 @@
         }
       },
       "Hoshangabad": {
-        "confirmed": 10,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Raisen": {
@@ -2515,10 +2515,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 52,
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 52
+          "confirmed": 47
         }
       }
     }
