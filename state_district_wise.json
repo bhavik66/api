@@ -1520,6 +1520,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     }
   },
@@ -1589,7 +1596,7 @@
         }
       },
       "Palghar": {
-        "confirmed": 18,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1680,7 +1687,7 @@
         }
       },
       "Amravati": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1721,8 +1728,8 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 9,
+      "Solapur": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2853,7 +2860,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 22,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

@@ -1742,6 +1742,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   },
@@ -1822,7 +1830,7 @@
       },
       {
         "district": "Palghar",
-        "confirmed": 18,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1926,7 +1934,7 @@
       },
       {
         "district": "Amravati",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1973,8 +1981,8 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 9,
+        "district": "Solapur",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -3276,7 +3284,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 22,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
