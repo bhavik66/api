@@ -2773,18 +2773,18 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 155,
+        "confirmed": 158,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 13
+          "confirmed": 16
         }
       },
       {
         "district": "Indore",
-        "confirmed": 416,
+        "confirmed": 413,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 88
+          "confirmed": 85
         }
       },
       {
