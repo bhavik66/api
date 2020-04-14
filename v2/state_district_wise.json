@@ -1985,7 +1985,7 @@
         "confirmed": 121,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 121
         }
       }
     ]
@@ -3301,6 +3301,14 @@
       {
         "district": "Kannur",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 298,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
