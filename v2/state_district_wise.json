@@ -2176,7 +2176,7 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 41,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2208,7 +2208,7 @@
       },
       {
         "district": "Chittoor",
-        "confirmed": 24,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2224,7 +2224,7 @@
       },
       {
         "district": "Kurnool",
-        "confirmed": 91,
+        "confirmed": 90,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2248,7 +2248,7 @@
       },
       {
         "district": "Y.S.R.",
-        "confirmed": 32,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
