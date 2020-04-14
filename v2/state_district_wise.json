@@ -2200,7 +2200,7 @@
       },
       {
         "district": "Chittoor",
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2240,7 +2240,7 @@
       },
       {
         "district": "Y.S.R.",
-        "confirmed": 31,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2695,6 +2695,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 33,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 33
         }
       }
     ]
@@ -3316,7 +3324,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 99,
+        "confirmed": 66,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
