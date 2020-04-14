@@ -241,7 +241,7 @@
         "confirmed": 173,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 52
         }
       },
       {
@@ -647,6 +647,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -3344,6 +3352,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 741,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 35
         }
       }
     ]
