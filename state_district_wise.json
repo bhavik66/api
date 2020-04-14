@@ -378,10 +378,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 441,
+        "confirmed": 450,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 71
+          "confirmed": 80
         }
       },
       "Jhunjhunu": {
@@ -567,10 +567,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 1,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 27
         }
       }
     }
@@ -1757,10 +1757,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 121,
+        "confirmed": 350,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 121
+          "confirmed": 350
         }
       }
     }
@@ -2923,10 +2923,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 741,
+        "confirmed": 477,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 35
+          "confirmed": 0
         }
       }
     }
