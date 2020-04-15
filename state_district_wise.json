@@ -2501,7 +2501,7 @@
         }
       },
       "Khandwa": {
-        "confirmed": 16,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2522,7 +2522,7 @@
         }
       },
       "Raisen": {
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2558,6 +2558,13 @@
       },
       "Mandsaur": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Satna": {
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2915,11 +2922,39 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 328,
+      "Dausa": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
+        }
+      },
+      "Jhunjhunu": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Nagaur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Tonk": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 324,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 8
         }
       }
     }
