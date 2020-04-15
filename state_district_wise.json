@@ -2227,31 +2227,31 @@
   "Gujarat": {
     "districtData": {
       "Rajkot": {
-        "confirmed": 18,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Surat": {
-        "confirmed": 48,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 6
         }
       },
-      "Ahmadabad": {
-        "confirmed": 404,
+      "Surat": {
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 31
+          "confirmed": 9
+        }
+      },
+      "Ahmadabad": {
+        "confirmed": 450,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 77
         }
       },
       "Vadodara": {
-        "confirmed": 116,
+        "confirmed": 121,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 8
         }
       },
       "Gandhinagar": {
@@ -2332,10 +2332,10 @@
         }
       },
       "Anand": {
-        "confirmed": 10,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Sabar Kantha": {
@@ -2353,10 +2353,10 @@
         }
       },
       "Bharuch": {
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Banas Kantha": {
@@ -2378,6 +2378,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Narmada": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     }
@@ -2599,10 +2606,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 1,
+        "confirmed": 197,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 197
         }
       }
     }
@@ -2944,7 +2951,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 13,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
