@@ -378,17 +378,17 @@
         }
       },
       "Jaipur": {
-        "confirmed": 468,
+        "confirmed": 476,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 15
+          "confirmed": 23
         }
       },
       "Jhunjhunu": {
-        "confirmed": 32,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhilwara": {
@@ -462,10 +462,10 @@
         }
       },
       "Tonk": {
-        "confirmed": 59,
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dhaulpur": {
@@ -497,10 +497,10 @@
         }
       },
       "Dausa": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Banswara": {
@@ -518,10 +518,10 @@
         }
       },
       "Nagaur": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Jaisalmer": {
@@ -2922,39 +2922,11 @@
           "confirmed": 0
         }
       },
-      "Dausa": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Jhunjhunu": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Nagaur": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Tonk": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
       "Unknown": {
-        "confirmed": 324,
+        "confirmed": 316,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 8
+          "confirmed": 0
         }
       }
     }
