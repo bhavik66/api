@@ -973,10 +973,10 @@
       },
       {
         "district": "Firozabad",
-        "confirmed": 19,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -1181,10 +1181,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 14,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 14
+          "confirmed": 8
         }
       }
     ]
