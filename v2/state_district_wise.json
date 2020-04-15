@@ -1247,10 +1247,10 @@
       },
       {
         "district": "Tirunelveli",
-        "confirmed": 60,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 1
         }
       },
       {
@@ -1279,10 +1279,10 @@
       },
       {
         "district": "Salem",
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       {
@@ -1303,10 +1303,10 @@
       },
       {
         "district": "Vellore",
-        "confirmed": 18,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 1
         }
       },
       {
@@ -1415,10 +1415,10 @@
       },
       {
         "district": "Thiruvallur",
-        "confirmed": 40,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 7
         }
       },
       {
